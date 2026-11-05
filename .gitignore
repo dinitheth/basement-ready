@@ -1,6 +1,4 @@
 # secrets
-.env
-.env.*
 !.env.example
 
 # deps and builds
@@ -35,3 +33,4 @@ media/eval/
 
 # demo video outputs: rendered locally, never committed
 media/video/
+config.bat
